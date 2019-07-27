@@ -12,3 +12,5 @@ public class ContinueDemo
 		}
 	}
 }
+
+//stashing example
